@@ -15,4 +15,8 @@ Version: 16 August 2023
 
 ----
 
+## Footnotes
+
+_Footnotes are optional as they provide inessential information. They can be removed from the copy of this document, along with the square bracket links._
+
 [^1]: Bombs vs. Sleepwalkers Discord server. [https://discord.io/sleepwalk](https://discord.io/sleepwalk)
