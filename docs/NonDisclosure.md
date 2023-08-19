@@ -19,7 +19,7 @@ Version: 16 August 2023
 
 It's very important to add a link to the original GitHub page of these Guidelines.
 
-Before copying this document, it's necessary to add this line:
+A copy of these Guidelines must begin with this paragraph:
 
 > This is a copy of Non-Disclosure Guidelines from the public GitHub repository of Bombs vs. Sleepwalkers project: https://vvsquad.github.io/BombsVsSleepwalkers/NonDisclosure
 
