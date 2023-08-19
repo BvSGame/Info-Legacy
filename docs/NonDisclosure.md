@@ -15,6 +15,18 @@ Version: 16 August 2023
 
 ----
 
+## For those who copy this document
+
+It's very important to add a link to the original GitHub page of these Guidelines.
+
+Before copying this document, it's necessary to add this line:
+
+> This is a copy of Non-Disclosure Guidelines from the public GitHub repository of Bombs vs. Sleepwalkers project: https://vvsquad.github.io/BombsVsSleepwalkers/NonDisclosure
+
+Don't ignore the version date, it must be copied as well. The version date could be verified with help of [commit history](https://github.com/vvsquad/BombsVsSleepwalkers/commits/main/docs/NonDisclosure.md).
+
+----
+
 ## Footnotes
 
 _Footnotes are optional as they provide inessential information. They can be removed from the copy of this document, along with the numbered/square bracket links._
