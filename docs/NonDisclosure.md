@@ -19,5 +19,5 @@ Version: 16 August 2023
 
 _Footnotes are optional as they provide inessential information. They can be removed from the copy of this document, along with the numbered/square bracket links._
 
-[^1]: Non-disclosure agreement <sup>[[Wikipedia]](https://en.wikipedia.org/wiki/Non-disclosure_agreement)</sup>, a legal document which is used in almost any company. This document can't be used in Bombs vs. Sleepwalkers project, due to its officially non-commercial indie nature.
+[^1]: Non-disclosure agreement <sup>[[Wikipedia]](https://en.wikipedia.org/wiki/Non-disclosure_agreement)</sup>, a legal document which is used in almost any company. This kind of documents can't be used in Bombs vs. Sleepwalkers project, due to its officially non-commercial indie nature — therefore, there are <u>guidelines</u> instead, which are <u>recommended</u> to follow until the project becomes legally official (this means registering as an indie project to publish on online marketplaces like Steam/Google Play and make official profits).
 [^2]: Bombs vs. Sleepwalkers Discord server. [https://discord.io/sleepwalk](https://discord.io/sleepwalk)
