@@ -15,6 +15,10 @@ Version: 16 August 2023
 
 ----
 
+[Browse this file in GitHub repository](https://github.com/vvsquad/BombsVsSleepwalkers/blob/main/docs/NonDisclosure.md)
+
+----
+
 ## For those who copy this document
 
 It's very important to add a link to the original GitHub page of these Guidelines.
